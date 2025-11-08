@@ -1,0 +1,27 @@
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee Project.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee_Project.Form_Organize.Login.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee_Project.Form_Organize.Registration.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee_Project.Properties.Resources.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee Project.csproj.GenerateResource.cache
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee Project.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\bin\Debug\Coffee Project.exe.config
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\bin\Debug\Coffee Project.exe
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\bin\Debug\Coffee Project.pdb
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee Project.exe
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee Project.pdb
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee Project.exe.config
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee_Project.Form_Organize.Admindashboard.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee_Project.Employeedashboard.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project\Coffee Project\obj\Debug\Coffee_Project.Home.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee Project.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee Project.exe.config
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee_Project.Form_Organize.Admindashboard.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee_Project.Form_Organize.Login.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee_Project.Form_Organize.Registration.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee_Project.Home.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee_Project.Employeedashboard.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee_Project.Properties.Resources.resources
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee Project.csproj.GenerateResource.cache
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee Project.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee Project.exe
+C:\Users\Jerry Cajote\source\repos\Coffee Project - Copy\Coffee Project\obj\Debug\Coffee Project.pdb

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|c:\\users\\jerry cajote\\source\\repos\\coffee project\\coffee project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|solutionrelative:coffee project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\coffee project\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|solutionrelative:coffee project\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\coffee project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|solutionrelative:coffee project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|c:\\users\\jerry cajote\\source\\repos\\coffee project\\coffee project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|solutionrelative:coffee project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\coffee project\\form organize\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|solutionrelative:coffee project\\form organize\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|c:\\users\\jerry cajote\\source\\repos\\coffee project\\coffee project\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|solutionrelative:coffee project\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\coffee project\\form organize\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|solutionrelative:coffee project\\form organize\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\coffee project\\form organize\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|solutionrelative:coffee project\\form organize\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\coffee project\\form organize\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|solutionrelative:coffee project\\form organize\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\coffee project\\form organize\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5CF603F-6DC6-46B3-9B2B-43935595A49D}|Coffee Project\\Coffee Project.csproj|solutionrelative:coffee project\\form organize\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form2.cs",
+              "RelativeDocumentMoniker": "Coffee Project\\Form2.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form2.cs [Design]",
+              "RelativeToolTip": "Coffee Project\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:39:55.118Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "Coffee Project\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Home.Designer.cs",
+              "RelativeToolTip": "Coffee Project\\Home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:16:37.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Home.cs",
+              "RelativeDocumentMoniker": "Coffee Project\\Home.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Home.cs",
+              "RelativeToolTip": "Coffee Project\\Home.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:45:15.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form Organize\\Registration.cs",
+              "RelativeDocumentMoniker": "Coffee Project\\Form Organize\\Registration.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form Organize\\Registration.cs",
+              "RelativeToolTip": "Coffee Project\\Form Organize\\Registration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:40:03.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employeedashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Employeedashboard.cs",
+              "RelativeDocumentMoniker": "Coffee Project\\Employeedashboard.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Employeedashboard.cs [Design]",
+              "RelativeToolTip": "Coffee Project\\Employeedashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:59:03.985Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form Organize\\Login.cs",
+              "RelativeDocumentMoniker": "Coffee Project\\Form Organize\\Login.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form Organize\\Login.cs",
+              "RelativeToolTip": "Coffee Project\\Form Organize\\Login.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:56:03.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admindashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form Organize\\Admindashboard.cs",
+              "RelativeDocumentMoniker": "Coffee Project\\Form Organize\\Admindashboard.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form Organize\\Admindashboard.cs [Design]",
+              "RelativeToolTip": "Coffee Project\\Form Organize\\Admindashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:06:23.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form Organize\\Login.cs",
+              "RelativeDocumentMoniker": "Coffee Project\\Form Organize\\Login.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form Organize\\Login.cs [Design]",
+              "RelativeToolTip": "Coffee Project\\Form Organize\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:48:50.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form Organize\\Registration.cs",
+              "RelativeDocumentMoniker": "Coffee Project\\Form Organize\\Registration.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Form Organize\\Registration.cs [Design]",
+              "RelativeToolTip": "Coffee Project\\Form Organize\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:42:39.962Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Home.cs",
+              "RelativeDocumentMoniker": "Coffee Project\\Home.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\Coffee Project\\Coffee Project\\Home.cs [Design]",
+              "RelativeToolTip": "Coffee Project\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:53:48.934Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
