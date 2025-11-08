@@ -39,7 +39,7 @@ namespace Coffee_Project
 
         public static bool TestConnection()
         {
-            // Try multiple connection string patterns
+            // Try multiple connection
             string[] connectionStrings = new string[]
             {
                 connectionString, // Try configured connection string first
